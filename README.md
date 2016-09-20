@@ -15,10 +15,10 @@ hue.set_color(1, 254, 254, 10000)
 
 # FAQ
 
-## How do i get a username?
+## How do I get a username?
 Check out Phillip Hue's [Getting started](http://www.developers.meethue.com/documentation/getting-started) guide 
 
-## How do i find the Hue Bridge IP?
-Log into your router and find the IP for the hostname 'phillips-hue'
+## How do I find the Hue Bridge IP?
+Log into your router and find the IP for the hostname 'phillips-hue'. You could also use an app like [Fing](https://geo.itunes.apple.com/dk/app/fing-network-scanner/id430921107)
 
 
