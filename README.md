@@ -1,5 +1,5 @@
 # SimpleHue
-💡Simple Python wrapper for interacting with Phillips Hue 2.0
+💡Simple Python wrapper for interacting with Phillips Hue 
 
 ## Example code
 ```python
