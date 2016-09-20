@@ -9,7 +9,7 @@ hue = SimpleHUE('http://your-hue-bridge-ip', 'some-username')
 hue.turn_on(1)
 # Turn off the light
 hue.turn_off(1)
-# Set the colors of a light (id, saturation, brightness, heu)
+# Set the colors of a light (id, saturation, brightness, hue)
 hue.set_color(1, 254, 254, 10000)
 ```
 
